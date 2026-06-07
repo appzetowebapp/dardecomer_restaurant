@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "549091352942",
+    "firebase_url": "https://dardecomer-a70cd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dardecomer-a70cd",
+    "storage_bucket": "dardecomer-a70cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549091352942:android:33458896717e6e1fa4a17f",
+        "android_client_info": {
+          "package_name": "com.dardecomer.delivery1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjfCpNIyIW4MQQms7xTEguQBATdNTq8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549091352942:android:cf9054d411b4a758a4a17f",
+        "android_client_info": {
+          "package_name": "com.dardecomer.restaurant1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjfCpNIyIW4MQQms7xTEguQBATdNTq8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549091352942:android:7389c87ae9b996f9a4a17f",
+        "android_client_info": {
+          "package_name": "com.dardecomer.user1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjfCpNIyIW4MQQms7xTEguQBATdNTq8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
